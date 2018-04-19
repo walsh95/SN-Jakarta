@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="business_application" table="x_209657_data_itsm_release_management" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>business_application</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>BDM-EDP</label>
+            <language>en</language>
+            <name>x_209657_data_itsm_release_management</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-23 20:40:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dffda195db81130070ca324d7c9619ca</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-26 17:16:16</sys_updated_on>
+            <value>BDM-EDP</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>business_application</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>EDW</label>
+            <language>en</language>
+            <name>x_209657_data_itsm_release_management</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-23 20:40:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>13fda195db81130070ca324d7c9619c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-23 20:40:44</sys_updated_on>
+            <value>EDW</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>business_application</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>FDW</label>
+            <language>en</language>
+            <name>x_209657_data_itsm_release_management</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-23 20:40:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>53fda195db81130070ca324d7c9619ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-23 20:40:44</sys_updated_on>
+            <value>FDW</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>business_application</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>BDMEDP</label>
+            <language>en</language>
+            <name>x_209657_data_itsm_release_management</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-26 17:16:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>61fb5c12db81130070ca324d7c9619f7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-26 17:16:16</sys_updated_on>
+            <value>BDMEDP</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>business_application</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>RDM</label>
+            <language>en</language>
+            <name>x_209657_data_itsm_release_management</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-23 20:40:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5ffda195db81130070ca324d7c9619cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-23 20:40:44</sys_updated_on>
+            <value>RDM</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>business_application</element>
+            <name>x_209657_data_itsm_release_management</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-23 20:40:44</sys_created_on>
+            <sys_id>1ffda195db81130070ca324d7c9619c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>business_application</sys_name>
+            <sys_package display_value="Data ITSM - Release Management" source="x_209657_data_itsm">2380d919db01130070ca324d7c96198c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Data ITSM - Release Management">2380d919db01130070ca324d7c96198c</sys_scope>
+            <sys_update_name>sys_choice_x_209657_data_itsm_release_management_business_application</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-23 20:40:44</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

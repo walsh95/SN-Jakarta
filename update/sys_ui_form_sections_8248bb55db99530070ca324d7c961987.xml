@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="8248bb55db99530070ca324d7c961987" sys_domain="global" table="cmdb_application_product_model" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-05 17:00:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8648bb55db99530070ca324d7c96198d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="cmdb_application_product_model" name="cmdb_application_product_model" sys_domain="global" view="Default view">8248bb55db99530070ca324d7c961987</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="cmdb_application_product_model" sys_domain="global" view="Default view">0248bb55db99530070ca324d7c96198c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-05 17:00:38</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-05 17:00:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c2483f55db99530070ca324d7c961945</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="cmdb_application_product_model" name="cmdb_application_product_model" sys_domain="global" view="Default view">8248bb55db99530070ca324d7c961987</sys_ui_form>
+            <sys_ui_section caption="General" display_value="General" name="cmdb_application_product_model" sys_domain="global" view="Default view">ca48bb55db99530070ca324d7c96198e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-05 17:00:38</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-05 17:00:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c648bb55db99530070ca324d7c96198e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="cmdb_application_product_model" name="cmdb_application_product_model" sys_domain="global" view="Default view">8248bb55db99530070ca324d7c961987</sys_ui_form>
+            <sys_ui_section caption="Compatibles" display_value="Compatibles" name="cmdb_application_product_model" sys_domain="global" view="Default view">8a48bb55db99530070ca324d7c96198d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-05 17:00:38</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-05 17:00:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8648bb55db99530070ca324d7c96198b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="cmdb_application_product_model" name="cmdb_application_product_model" sys_domain="global" view="Default view">8248bb55db99530070ca324d7c961987</sys_ui_form>
+            <sys_ui_section caption="Assets" display_value="Assets" name="cmdb_application_product_model" sys_domain="global" view="Default view">4e48bb55db99530070ca324d7c961989</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-05 17:00:38</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-05 17:00:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>06483f55db99530070ca324d7c961946</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="cmdb_application_product_model" name="cmdb_application_product_model" sys_domain="global" view="Default view">8248bb55db99530070ca324d7c961987</sys_ui_form>
+            <sys_ui_section caption="Configuration items" display_value="Configuration items" name="cmdb_application_product_model" sys_domain="global" view="Default view">c6483f55db99530070ca324d7c961945</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-05 17:00:39</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>cmdb_application_product_model</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-05 17:00:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8248bb55db99530070ca324d7c961987</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>cmdb_application_product_model</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Data ITSM - Release Management" source="x_209657_data_itsm">2380d919db01130070ca324d7c96198c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Data ITSM - Release Management">2380d919db01130070ca324d7c96198c</sys_scope>
+            <sys_update_name>sys_ui_form_sections_8248bb55db99530070ca324d7c961987</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-05 17:00:38</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

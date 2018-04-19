@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_content">
+    <sys_embedded_help_content action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category>service-catalog</category>
+        <content><![CDATA[ <h1 class="title topictitle1">Service catalog UI policies</h1>  <div class="body conbody">  <p class="p">Catalog UI policies control the behavior of catalog item forms when        presented to your users. Catalog UI policies can be applied to a catalog item or a variable        set. </p> </div> <div class="related-links"><div class="relinfo"><div class="reltitle">Related information<br /><div><a class="link" href="https://docs.servicenow.com/?context&#61;CSHelp:Service-Catalog-Items&amp;version&#61;jakarta" target="_blank" rel="nofollow">Introduction to catalog items</a></div><div><a class="link" href="https://docs.servicenow.com/?context&#61;CSHelp:Service-Catalog-Variable-Sets&amp;version&#61;jakarta" target="_blank" rel="nofollow">Service catalog variable sets</a></div><div><a class="link" href="https://docs.servicenow.com/?context&#61;CSHelp:Service_Catalog_UI_Policy&amp;version&#61;jakarta" target="_blank" rel="nofollow">Service catalog UI policy</a></div></div></div></div>]]></content>
+        <last_sync>2018-04-09 16:55:21</last_sync>
+        <modifier>normal</modifier>
+        <name>catalog_ui_policy_list-normal</name>
+        <page>catalog_ui_policy_list</page>
+        <product>1</product>
+        <qualifier/>
+        <role/>
+        <role_order>1000</role_order>
+        <snc_created>true</snc_created>
+        <sys_class_name>sys_embedded_help_content</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2018-03-23 20:15:12</sys_created_on>
+        <sys_id>45282591db81130070ca324d7c9619f2</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>catalog_ui_policy_list-normal</sys_name>
+        <sys_package display_value="Data ITSM - Release Management" source="x_209657_data_itsm">2380d919db01130070ca324d7c96198c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Data ITSM - Release Management">2380d919db01130070ca324d7c96198c</sys_scope>
+        <sys_update_name>sys_embedded_help_content_45282591db81130070ca324d7c9619f2</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-04-09 16:55:21</sys_updated_on>
+        <version>j</version>
+    </sys_embedded_help_content>
+    <sys_translated_text action="delete_multiple" query="documentkey=45282591db81130070ca324d7c9619f2"/>
+</record_update>

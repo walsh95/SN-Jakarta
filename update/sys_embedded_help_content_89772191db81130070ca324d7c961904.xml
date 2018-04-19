@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_content">
+    <sys_embedded_help_content action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category>discovery</category>
+        <content><![CDATA[ <h1 class="title topictitle1">Discovery identifiers</h1>  <div class="body conbody">  <p class="p">Discovery launches special identity probes that accumulate   identification data for each device and feed that data into the identifiers, which determine the   action that Discovery must take for each device. Identifiers accurately determine the identity of   the device to prevent the creation of duplicate CIs. </p>  <p class="p">The identifiers determine how to proceed for each device discovered,   based on the <em class="ph i">result state</em>. The identifiers pass the result state for a discovered device   back to the identity sensors, which respond appropriately, either by launching additional   exploratory probes to continue discovering the device or by taking no further action on the   device.</p>  <div class="note note"><span class="notetitle">Note:</span> When you use patterns for discovery, the identity probe is not used. Discovery uses the   appropriate identifier rules based on the CI type that you are trying to discover as specified in   the pattern operations. The operations in the pattern along with these identifier rules perform   the identification and exploration phases of discovery. </div>  <div class="p">All new instances use identifiers from the CMDB        Identification and Reconciliation framework. Upgrades from pre-Geneva versions still        preserve the legacy identifiers, but you can switch to the new identifiers using a property:          glide.discovery.use_cmdb_identifiers. If you upgraded from a pre-Geneva        version, you must manually add this property and set it to <span class="ph uicontrol">true</span> to        use the new identifiers. If you upgraded from Geneva or later releases, this property is        available in the System Properties [sys_properties] table. To preserve functionality in        custom legacy identifiers, convert them to the new CMDB identifier rules format before        enabling this property. The system does not reconfigure your custom identifiers to the new        framework automatically.<div class="note note"><span class="notetitle">Note:</span> When Service Mapping is active, the new identifiers from the          CMDB Identification and Reconciliation framework are always used regardless of the          property value.</div></div> </div> <div class="related-links"><div class="relinfo"><div class="reltitle">Related information<br /><div><a class="link" href="https://docs.servicenow.com/?context&#61;CSHelp:Discovery_Identifier&amp;version&#61;jakarta" target="_blank" rel="nofollow">Discovery identifiers</a></div><div><a class="link" href="https://docs.servicenow.com/?context&#61;CSHelp:HowIdentifiersWork&amp;version&#61;jakarta" target="_blank" rel="nofollow">How Discovery identifiers work</a></div></div></div></div>]]></content>
+        <last_sync>2018-04-09 16:55:20</last_sync>
+        <modifier>normal</modifier>
+        <name>cmdb_identifier_list-normal</name>
+        <page>cmdb_identifier_list</page>
+        <product>1</product>
+        <qualifier/>
+        <role/>
+        <role_order>1000</role_order>
+        <snc_created>true</snc_created>
+        <sys_class_name>sys_embedded_help_content</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2018-03-23 20:12:11</sys_created_on>
+        <sys_id>89772191db81130070ca324d7c961904</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>cmdb_identifier_list-normal</sys_name>
+        <sys_package display_value="Data ITSM - Release Management" source="x_209657_data_itsm">2380d919db01130070ca324d7c96198c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Data ITSM - Release Management">2380d919db01130070ca324d7c96198c</sys_scope>
+        <sys_update_name>sys_embedded_help_content_89772191db81130070ca324d7c961904</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-04-09 16:55:20</sys_updated_on>
+        <version>j</version>
+    </sys_embedded_help_content>
+    <sys_translated_text action="delete_multiple" query="documentkey=89772191db81130070ca324d7c961904"/>
+</record_update>
